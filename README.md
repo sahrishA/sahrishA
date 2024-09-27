@@ -1,6 +1,6 @@
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - *Business Guide*
 
-Submitted by: **Sahrish**
+Submitted by: **Sahrish Afzal**
 
 About this web app: Guide to Starting Your Business
 No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche? We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers? We have a short guide for each one of those. Our guides are sorted into different categories (including business models, product development, sales, market research, and funding) so you can browse or filter to personalize your experience.
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright 2024 Sahrish Afzal
+Copyright [2024] [Sahrish Afzal]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
