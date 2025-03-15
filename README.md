@@ -27,8 +27,8 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 📊 Cleaned and analyzed large datasets using **Excel**, removing outliers and optimizing for insights.  
 🔍 Executed **SQL queries (JOINs, subqueries)** to extract key business data from **PostgreSQL**.  
 📈 Built **interactive Tableau dashboards** to visualize trends and drive data-driven decisions.  
+✅ **Tools:** Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
 
-🔹 **Skills:** Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
 ---
 
 ## 🛠 Skills  
