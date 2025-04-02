@@ -7,23 +7,23 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 ---
 ## Experience
 
-### ![UPS](https://www.ups.com/logo.png) Software Engineer Intern (05/2024 - 08/2024)
+### ![UPS](https://images.app.goo.gl/UQT2jNN7Q9eFxsVo8) Software Engineer (05/2024 - 08/2024)
 - 🏆 First place in the project panel for developing the Shipping Rate Comparison Tool.
 - ✅ Skills & Tools :Jira framework, Bitbucket, HTML, CSS, React.js, Flask, Nodejs, Git, SEO, Rest API, HTTP, Google inspection tools,SEO, Figma, and AJAX.
 
-### ![Rutgers](https://www.rutgers.edu/logo.png) Researcher (05/2024 - 08/2024)
+### ![Rutgers](https://images.app.goo.gl/mpHbmcg3jGavRJSKA) Researcher (05/2024 - 08/2024)
 -  Analyzed the particle fluid interaction using molecular dynamic simulations.
 - ✅ Skills & Tools : Excel, PivotTables, python, Pandas, NumPy, Scikit-learn, seaborn, matplotlib, Linux, Bash, Machine Learning, regression model, Azure, AWS, GCP, and SDLC
 
-### ![Tech Smart Solution Inc](https://www.techsmart.com/logo.png) Scrum Master (08/2022 - 10/2022)
+### ![Tech Smart Solution Inc](https://media.licdn.com/dms/image/v2/D4E0BAQFdsjQxcBgAOQ/company-logo_200_200/company-logo_200_200/0/1718380191280?e=1749081600&v=beta&t=8kJ5AKuO3gQGyTm2QvTkeaF_qP1lCopoJQIi67pmSIY) Scrum Master (08/2022 - 10/2022)
 - Lead the team of 5 people who shifted from waterfall model to Agile.
 -  ✅ Skills & Tools : : Agile Frameworks (Scrum, Kanban, Jira, and Jira Portfolio), Bitbucket, Agile Development, and SDL Cycle.
 
-### ![General Assembly](https://www.gait.com/logo.png) Data Analyst | [General Assembly Institute of Technology](https://www.gait.com) (07/2021 - 10/2021)
+### ![General Assembly](https://images.app.goo.gl/AcapVX4rSm2dxggH6) Data Analyst (07/2021 - 10/2021)
 -Analysed the data from for different project with the background of healthcare, media, technology, finance and Retail.
 - ✅ Skills & Tools : Marketing Mix Model,Machine Learning, Excel, PostgreSQL, SQL, Tableau, VLOOKUP, and Pivot Tables
 
-### ![General Assembly](https://www.gait.com/logo.png) Frontend Web Developer | [General Assembly Institute of Technology](https://www.gait.com) (04/2021 - 06/2021)
+### ![General Assembly](https://images.app.goo.gl/AcapVX4rSm2dxggH6) Frontend Web Developer (04/2021 - 06/2021)
 - Created different Front-end websites.
 - ✅ Skills & Tools: Microsoft Office Suite, Jira, HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Git, SEO, Google Inspection Tools, Figma, and AJAX
 
