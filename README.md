@@ -7,40 +7,31 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 ---
 ## Experience
 
-### ![UPS Logo](https://www.ups.com/logo.png) Software Engineer Intern | [UPS](https://www.ups.com) (05/2024 - 08/2024)
-- 🏆 First place in the project panel for developing the Shipping Rate Comparison Tool
-- ✅ Frontend: HTML, CSS, Bootstrap, React.js, Figma
-- ✅ Backend: Flask, PHP, REST APIs
-- ✅ Tools: Git, Webpack, Google Inspection Tools, SEO Optimization
+### ![UPS](https://www.ups.com/logo.png) Software Engineer Intern (05/2024 - 08/2024)
+- 🏆 First place in the project panel for developing the Shipping Rate Comparison Tool.
+- ✅ Skills & Tools :Jira framework, Bitbucket, HTML, CSS, React.js, Flask, Nodejs, Git, SEO, Rest API, HTTP, Google inspection tools,SEO, Figma, and AJAX.
 
-### ![Rutgers Logo](https://www.rutgers.edu/logo.png) Researcher | [Rutgers Rise Research Program](https://www.rutgers.edu) (05/2024 - 08/2024)
-- 🔬 Conducted Molecular Dynamics Simulations using LAMMPS
-- 📊 Automated data processing with Python, Pandas, NumPy
-- 🧪 Utilized Machine Learning (Regression Models, Markov Chains) for simulations
-- ✅ Tools: Anaconda, Azure, AWS, OVITO, Matplotlib, Seaborn
+### ![Rutgers](https://www.rutgers.edu/logo.png) Researcher (05/2024 - 08/2024)
+-  Analyzed the particle fluid interaction using molecular dynamic simulations.
+- ✅ Skills & Tools : Excel, PivotTables, python, Pandas, NumPy, Scikit-learn, seaborn, matplotlib, Linux, Bash, Machine Learning, regression model, Azure, AWS, GCP, and SDLC
 
-### ![Tech Smart Solution Inc. Logo](https://www.techsmart.com/logo.png) Scrum Master | [Tech Smart Solution Inc.](https://www.techsmart.com) (08/2022 - 10/2022)
-- 🚀 Facilitated Scrum Ceremonies, mentored teams on Agile best practices
-- 📊 Used Jira, Bitbucket, Burndown Charts for progress tracking
+### ![Tech Smart Solution Inc](https://www.techsmart.com/logo.png) Scrum Master (08/2022 - 10/2022)
+- Lead the team of 5 people who shifted from waterfall model to Agile.
+-  ✅ Skills & Tools : : Agile Frameworks (Scrum, Kanban, Jira, and Jira Portfolio), Bitbucket, Agile Development, and SDL Cycle.
 
-### ![GAIT Logo](https://www.gait.com/logo.png) Data Analyst | [General Assembly Institute of Technology](https://www.gait.com) (07/2021 - 10/2021)
-- 📊 Cleaned and analyzed large datasets using Excel, removing outliers and optimizing for insights
-- 🔍 Executed SQL queries (JOINs, subqueries) to extract key business data from PostgreSQL
-- 📈 Built interactive Tableau dashboards to visualize trends and drive data-driven decisions
-- ✅ Tools: Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
+### ![General Assembly](https://www.gait.com/logo.png) Data Analyst | [General Assembly Institute of Technology](https://www.gait.com) (07/2021 - 10/2021)
+-Analysed the data from for different project with the background of healthcare, media, technology, finance and Retail.
+- ✅ Skills & Tools : Marketing Mix Model,Machine Learning, Excel, PostgreSQL, SQL, Tableau, VLOOKUP, and Pivot Tables
 
-### ![GAIT Logo](https://www.gait.com/logo.png) Frontend Web Developer | [General Assembly Institute of Technology](https://www.gait.com) (04/2021 - 06/2021)
-- 🎨 Designed website frontends using Figma, collaborating with UX for user-friendly designs
-- 🌐 Developed responsive web interfaces using HTML, CSS, and Bootstrap
-- 💻 Implemented JavaScript functionality for enhanced user interactions, integrated AJAX
-- 🛠️ Conducted pre-deployment testing with Google’s inspection tools, optimized for SEO
-- ✅ Tools: Microsoft Office Suite, Jira, HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Git, SEO, Google Inspection Tools, Figma, AJAX
+### ![General Assembly](https://www.gait.com/logo.png) Frontend Web Developer | [General Assembly Institute of Technology](https://www.gait.com) (04/2021 - 06/2021)
+- Created different Front-end websites.
+- ✅ Skills & Tools: Microsoft Office Suite, Jira, HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Git, SEO, Google Inspection Tools, Figma, and AJAX
 
 ---
 
 ## 🛠 Skills  
 🔹 **Frontend:** HTML, CSS, Bootstrap, React.js, JavaScript, AJAX, SEO  
-🔹 **Backend:** Node.js, Flask, PostgreSQL, Express.js, REST APIs  
+🔹 **Backend:** Node.js, Flask, PostgreSQL, Express.js, REST APIs, python, JavaScript
 🔹 **Cybersecurity:** Wireshark, Splunk, TCP/IP Networking, SIEM, SOAR, NIST IR Framework  
 🔹 **Project Management:** Agile, Scrum, Jira, Kanban  
 🔹 **Machine Learning & Data Science:** Python (Pandas, NumPy, Scikit-learn, Seaborn), AI, ML  
