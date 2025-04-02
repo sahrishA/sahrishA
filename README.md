@@ -5,29 +5,36 @@ Versatile Software Engineer with expertise in building responsive, user-friendly
 Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, and backend integration with **PostgreSQL & REST APIs** for seamless functionality.
 
 ---
+## Experience
 
-## 💼 Work Experience & Projects
+### ![UPS Logo](https://www.ups.com/logo.png) Software Engineer Intern | [UPS](https://www.ups.com) (05/2024 - 08/2024)
+- 🏆 First place in the project panel for developing the Shipping Rate Comparison Tool
+- ✅ Frontend: HTML, CSS, Bootstrap, React.js, Figma
+- ✅ Backend: Flask, PHP, REST APIs
+- ✅ Tools: Git, Webpack, Google Inspection Tools, SEO Optimization
 
-### 🔹 **Software Engineer Intern | UPS** (05/2024 - 08/2024)  
-🏆 **First place in the project panel** for developing the **Shipping Rate Comparison Tool**  
-✅ **Frontend:** HTML, CSS, Bootstrap, React.js, Figma  
-✅ **Backend:** Flask, PHP, REST APIs  
-✅ **Tools:** Git, Webpack, Google Inspection Tools, SEO Optimization  
+### ![Rutgers Logo](https://www.rutgers.edu/logo.png) Researcher | [Rutgers Rise Research Program](https://www.rutgers.edu) (05/2024 - 08/2024)
+- 🔬 Conducted Molecular Dynamics Simulations using LAMMPS
+- 📊 Automated data processing with Python, Pandas, NumPy
+- 🧪 Utilized Machine Learning (Regression Models, Markov Chains) for simulations
+- ✅ Tools: Anaconda, Azure, AWS, OVITO, Matplotlib, Seaborn
 
-### 🔹 **Researcher | Rutgers Rise Research Program** (05/2024 - 08/2024)  
-🔬 Conducted **Molecular Dynamics Simulations** using **LAMMPS**  
-📊 Automated data processing with **Python, Pandas, NumPy**  
-🧪 Utilized **Machine Learning (Regression Models, Markov Chains)** for simulations  
-✅ **Tools:** Anaconda, Azure, AWS, OVITO, Matplotlib, Seaborn  
+### ![Tech Smart Solution Inc. Logo](https://www.techsmart.com/logo.png) Scrum Master | [Tech Smart Solution Inc.](https://www.techsmart.com) (08/2022 - 10/2022)
+- 🚀 Facilitated Scrum Ceremonies, mentored teams on Agile best practices
+- 📊 Used Jira, Bitbucket, Burndown Charts for progress tracking
 
-### 🔹 **Scrum Master | Tech Smart Solution Inc.** (08/2022 - 10/2022)  
-🚀 Facilitated **Scrum Ceremonies**, mentored teams on Agile best practices  
-📊 Used **Jira, Bitbucket, Burndown Charts** for progress tracking  
-### 🔹 **Data Analyst | General Assembly Institute of Technology** (07/2021 - 10/2021)  
-📊 Cleaned and analyzed large datasets using **Excel**, removing outliers and optimizing for insights.  
-🔍 Executed **SQL queries (JOINs, subqueries)** to extract key business data from **PostgreSQL**.  
-📈 Built **interactive Tableau dashboards** to visualize trends and drive data-driven decisions.  
-✅ **Tools:** Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
+### ![GAIT Logo](https://www.gait.com/logo.png) Data Analyst | [General Assembly Institute of Technology](https://www.gait.com) (07/2021 - 10/2021)
+- 📊 Cleaned and analyzed large datasets using Excel, removing outliers and optimizing for insights
+- 🔍 Executed SQL queries (JOINs, subqueries) to extract key business data from PostgreSQL
+- 📈 Built interactive Tableau dashboards to visualize trends and drive data-driven decisions
+- ✅ Tools: Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
+
+### ![GAIT Logo](https://www.gait.com/logo.png) Frontend Web Developer | [General Assembly Institute of Technology](https://www.gait.com) (04/2021 - 06/2021)
+- 🎨 Designed website frontends using Figma, collaborating with UX for user-friendly designs
+- 🌐 Developed responsive web interfaces using HTML, CSS, and Bootstrap
+- 💻 Implemented JavaScript functionality for enhanced user interactions, integrated AJAX
+- 🛠️ Conducted pre-deployment testing with Google’s inspection tools, optimized for SEO
+- ✅ Tools: Microsoft Office Suite, Jira, HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Git, SEO, Google Inspection Tools, Figma, AJAX
 
 ---
 
