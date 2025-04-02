@@ -41,13 +41,29 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 
-## 📜 Certificates  
-- 🏅 **Advanced Technical Interview Prep (TIP103) - CodePath**  
-- 📜 **Advanced Web Development & Cybersecurity - CodePath**  
-- 🎨 **UX Design - Coursera**  
-- 🎖 **Scrum Master - Udemy**  
-- 📊 **Data Analytics - General Assembly**  
+## Certificates 
+I have earned multiple certifications across diverse domains, including software engineering, web development, UX design, data analytics, cybersecurity, digital marketing, and research ethics. These certifications reflect my commitment to continuous learning and professional growth.
 
+[![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
+### 🏆 List of Certificates
+
+- [BS Degree Completion Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
+- [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)    
+- [Capstone Project Achievement](https://github.com/sahrishafzal/Certificate/blob/main/Capstone%20Projeject%20Achievement.png)  
+- [Express Essentials - Build Powerful Web Apps with Node.js](https://github.com/sahrishafzal/Certificate/blob/main/CertificateOfCompletion_Express%20Essentials%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20.pdf)  
+- [Data Analytics](https://github.com/sahrishafzal/Certificate/blob/main/Data%20Analytics.pdf)  
+- [Foundations of User Experience (UX) Design](https://github.com/sahrishafzal/Certificate/blob/main/Foundations%20of%20User%20Experience%20(UX)%20Design.pdf)  
+- [Frontend Web Development](https://github.com/sahrishafzal/Certificate/blob/main/Frontend%20Web%20Development.pdf)  
+- [IRB Member (Basic)](https://github.com/sahrishafzal/Certificate/blob/main/IRB%20Member(basic).pdf)  
+- [RCR Course](https://github.com/sahrishafzal/Certificate/blob/main/RCR%20Coure.pdf)  
+- [Social & Behavioral Research](https://github.com/sahrishafzal/Certificate/blob/main/Social%20&%20Behavioral%20Research.pdf)  
+- [Software Engineer](https://github.com/sahrishafzal/Certificate/blob/main/Software%20Engineer.png)  
+- [Web Development](https://github.com/sahrishafzal/Certificate/blob/main/Web%20Development.pdf)  
+- [Cybersecurity](https://github.com/sahrishafzal/Certificate/blob/main/cybersecurity.pdf)  
+- [Fundamentals of Digital Marketing](https://github.com/sahrishafzal/Certificate/blob/main/fundamental%20of%20Digital%20Marketing.pdf)  
+- [HTML and CSS Certificate](https://github.com/sahrishafzal/Certificate/blob/main/html%20and%20css%20certificate.pdf)  
+
+ 
 ---
 
 ## 📫 Let's Connect!  
