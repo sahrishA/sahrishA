@@ -32,7 +32,7 @@ I have earned multiple certifications across diverse domains, including software
 [![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
 ### 🏆 List of Certificates
 
- [](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
+ -[BS Degree Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
 - [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)    
 - [Capstone Project Achievement](https://github.com/sahrishafzal/Certificate/blob/main/Capstone%20Projeject%20Achievement.png)  
 - [Express Essentials - Build Powerful Web Apps with Node.js](https://github.com/sahrishafzal/Certificate/blob/main/CertificateOfCompletion_Express%20Essentials%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20.pdf)  
